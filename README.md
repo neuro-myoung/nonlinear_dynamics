@@ -5,13 +5,13 @@ Folders here contain code written for select programming assignments in Understa
 ---
 
 ## Table of Contents
-    1. [Fractal Games] (#fractals)
-    2. [License] (#license)
-    3. [Contributors] (#contrib)
+    1. [Fractal Games] (https://github.com/neuro-myoung/nonlinear_dynamics#fractal-game)
+    2. [License] (https://github.com/neuro-myoung/nonlinear_dynamics#license)
+    3. [Contributors] (https://github.com/neuro-myoung/nonlinear_dynamics#contributors)
 
 ---
 
-<a name="fractals"></a>
+<a name="fractal-game"></a>
 ## Fractal Game
 
 ---
@@ -21,5 +21,5 @@ Folders here contain code written for select programming assignments in Understa
 
 ---
 
-<a name="contrib"></a>
+<a name="contributors"></a>
 ## Contributors
